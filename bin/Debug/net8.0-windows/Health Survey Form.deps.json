@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Health Survey Form/1.0.0": {
+        "runtime": {
+          "Health Survey Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Health Survey Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
